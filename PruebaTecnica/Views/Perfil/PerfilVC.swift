@@ -35,6 +35,7 @@ class PerfilVC: UIViewController {
     @IBOutlet weak var btnLogout: UIButton!
     @IBOutlet weak var lblLogout: UILabel!
     
+    let uriReadme = "https://github.com/Gimabelle7/GimaStore/blob/main/README.md"
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -81,7 +82,7 @@ class PerfilVC: UIViewController {
     }
     
     @IBAction func pressInfo(_ sender: UIButton) {
-        UIApplication.openURLInBrowser(urlString: "https://www.google.com") { success in
+        UIApplication.openURLInBrowser(urlString: uriReadme) { success in
             if success{
                 AlertHelper.show(titulo: "Error", mensaje: "No se pudo abrir la url", en: self)
             }
