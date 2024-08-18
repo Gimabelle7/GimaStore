@@ -35,7 +35,7 @@ class PerfilVC: UIViewController {
     @IBOutlet weak var btnLogout: UIButton!
     @IBOutlet weak var lblLogout: UILabel!
     
-    let uriReadme = "https://github.com/Gimabelle7/GimaStore/blob/main/README.md"
+    let uriReadme = "https://github.com/Gimabelle7/GimaStore/blob/master/README.md"
     
     override func viewDidLoad() {
         super.viewDidLoad()
