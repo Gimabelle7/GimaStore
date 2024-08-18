@@ -15,7 +15,7 @@ Este proyecto es una aplicación iOS creada en Swift que utiliza Firebase para a
 ### 1. Clonar el repositorio:
 ````ruby
 git clone https://github.com/Gimabelle7/GimaStore.git/
-Branch: main
+Branch: master
  ````
 ## 2. Instala las dependencias utilizando CocoaPods.
   ````ruby
