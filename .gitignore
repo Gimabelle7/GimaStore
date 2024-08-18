@@ -1,0 +1,25 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace
+*.xcuserdatad
+*.xcscheme
+*.xcdebugger
+*.moved-aside
+*.swp
+*.lock
+*.pbxuser
+*.perspectivev3
+DerivedData/
+build/
+*.hmap
+*.dSYM/
+
+# Swift Package Manager
+.build/
+.package/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
