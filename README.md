@@ -94,10 +94,6 @@ El proyecto sigue una arquitectura **MVVM (Model-View-ViewModel)** y está organ
 
 ---
 
-# 🧪 Pruebas
-- Unit Tests: [Descripción de las pruebas unitarias, si las hay, y cómo ejecutarlas].
-- UI Tests: [Descripción de las pruebas de interfaz de usuario].
-
 # 📚 Documentación Adicional
 
 - **Estructura en Firebase**:  
