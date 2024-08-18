@@ -47,32 +47,17 @@ Cmd + r
 
 ## 2. Características
 
-### 🔐 Login
-![Login](https://github.com/user-attachments/assets/19bf9666-ce0e-49cb-93c5-9b1129c1b767)  
-**Descripción:**  
-El sistema de login permite a los usuarios autenticarse en la aplicación de manera segura mediante el uso de credenciales. Se implementa un proceso de autenticación robusto que asegura que solo los usuarios válidos puedan acceder a las funcionalidades de la aplicación.
-
-### 📝 Registro
-![Registro](https://github.com/user-attachments/assets/14738f84-29dc-4209-a384-68c4da0ab7fd)  
-**Descripción:**  
-Los nuevos usuarios tienen la opción de crear una cuenta en la aplicación mediante un proceso de registro sencillo. Este proceso les permite acceder a todas las funcionalidades de la aplicación una vez que se complete el registro.
-
-### ✏️ Editar Perfil
-![Editar Perfil](https://github.com/user-attachments/assets/fe7b409b-a18c-4149-9c73-34bd31315bff)  
-**Descripción:**  
-Los usuarios pueden actualizar su información personal, como nombre, correo electrónico y foto de perfil, a través de la función de edición de perfil. Esta funcionalidad permite a los usuarios mantener su información actualizada.
-
-
-### 🔒 Cambio de Contraseña
-![Cambio de Contraseña](https://github.com/user-attachments/assets/e737fc8c-3622-4733-83d6-6ddffb552dfb)  
-**Descripción:**  
-Los usuarios pueden cambiar su contraseña para mantener la seguridad de su cuenta. Este proceso asegura que solo el usuario que conoce la contraseña actual pueda realizar cambios.
-
-### 👤 Perfil
-![Perfil](https://github.com/user-attachments/assets/cae24ccd-9d15-420e-9a12-29a549ae58ce)  
-**Descripción:**  
-La vista del perfil permite a los usuarios visualizar su información personal y acceder a opciones de personalización. Esta sección proporciona un resumen de la cuenta del usuario y permite acceder a funciones relacionadas con la gestión del perfil.
-
+| Característica              | Imagen                                                                                                                                      | Descripción                                                                                                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔐 **Login**                | ![Login](https://github.com/user-attachments/assets/19bf9666-ce0e-49cb-93c5-9b1129c1b767)                                                | El sistema de login permite a los usuarios autenticarse en la aplicación de manera segura mediante el uso de credenciales. Se implementa un proceso de autenticación robusto que asegura que solo los usuarios válidos puedan acceder a las funcionalidades de la aplicación. |
+| 📝 **Registro**             | ![Registro](https://github.com/user-attachments/assets/14738f84-29dc-4209-a384-68c4da0ab7fd)                                             | Los nuevos usuarios tienen la opción de crear una cuenta en la aplicación mediante un proceso de registro sencillo. Este proceso les permite acceder a todas las funcionalidades de la aplicación una vez que se complete el registro.                     |
+| ✏️ **Editar Perfil**        | ![Editar Perfil](https://github.com/user-attachments/assets/fe7b409b-a18c-4149-9c73-34bd31315bff)                                        | Los usuarios pueden actualizar su información personal, como nombre, correo electrónico y foto de perfil, a través de la función de edición de perfil. Esta funcionalidad permite a los usuarios mantener su información actualizada.                       |
+| 🔒 **Cambio de Contraseña** | ![Cambio de Contraseña](https://github.com/user-attachments/assets/e737fc8c-3622-4733-83d6-6ddffb552dfb)                              | Los usuarios pueden cambiar su contraseña para mantener la seguridad de su cuenta. Este proceso asegura que solo el usuario que conoce la contraseña actual pueda realizar cambios.                                                               |
+| 👤 **Perfil**               | ![Perfil](https://github.com/user-attachments/assets/cae24ccd-9d15-420e-9a12-29a549ae58ce)                                                | La vista del perfil permite a los usuarios visualizar su información personal y acceder a opciones de personalización. Esta sección proporciona un resumen de la cuenta del usuario y permite acceder a funciones relacionadas con la gestión del perfil.   |
+| 🛍️ **Productos**           | ![Productos](https://github.com/user-attachments/assets/a52d13ed-cf7a-40aa-8eae-d139debb3444)                                           | Descripción pendiente.                                                                                                                                         |
+| ➕ **Creación de productos** | ![Creación de productos](https://github.com/user-attachments/assets/96b0d779-da25-4bca-ade6-ec60fe23ee5d)                              | Descripción pendiente.                                                                                                                                         |
+| 📦 **Detalle de productos** | ![Detalle de productos](https://github.com/user-attachments/assets/dac192ef-9897-4c7e-9c4c-49697a6d1965)                              | Descripción pendiente.                                                                                                                                         |
+| 📝 **Actualizar producto**  | ![Actualizar producto](https://github.com/user-attachments/assets/8adcc088-244a-487c-90aa-fa8c91370fa2)                               | Descripción pendiente.                                                                                                                                         |
 
 # 🔍 Arquitectura del Código
 
